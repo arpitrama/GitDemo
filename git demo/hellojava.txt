@@ -1,0 +1,7 @@
+helloworld{
+
+main(){
+sysout("hello world");
+
+}
+}
