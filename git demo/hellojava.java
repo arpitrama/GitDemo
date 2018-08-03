@@ -13,3 +13,6 @@ System.out.println("hello world ...Welcome to git");
 new method(){
 syso("how are u ")
 }
+
+
+new method()
