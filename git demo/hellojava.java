@@ -9,4 +9,6 @@ public static void main(){
 System.out.println("hello world ...Welcome to git");
 //hdhjy gtys
 }//cggg
+new method(){
+}
 }
